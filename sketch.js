@@ -5,7 +5,7 @@ const Constraint = Matter.Constraint;
 
 var engine, world;
 var canvas;
-var palyer, playerBase, playerArcher;
+var player, playerBase, playerArcher;
 var playerArrows = [];
 var board1, board2;
 var numberOfArrows = 10;
